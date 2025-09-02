@@ -1,0 +1,15 @@
+Directions to play the game are as follows:
+
+At first, one button will blink. 
+you will have to remember it and after its blinking:
+a. wait for a second 
+b. press the same button 
+c. once you press the button it will turn to green color for the moment you press it.
+
+if you press the RIGHT button then you will be moved to LEVEL 2 and NEXT button will blink
+Now You have to click BOTH the buttons in SEQUENCE in which they were BLINKED.
+if you keep clicking RIGHT buttons then you will be LEVELLED UP.
+
+but,
+if you press the wrong button then the screen will turn into red and the game will be over.
+your HIGHEST SCORE will be Shown up on the screen.
