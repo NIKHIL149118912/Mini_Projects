@@ -58,7 +58,7 @@ function checkAns(idx)
         {
             setTimeout(levelUp,1000);
 
-            if(High_score<gameSeq.length)
+            if(High_score<=gameSeq.length)
                 {
                 High_score=(gameSeq.length)+1;
                 }
